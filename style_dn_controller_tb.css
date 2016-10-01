@@ -1,0 +1,63 @@
+.label
+{
+	width:30px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+
+.text{
+      font-family:Arial, Helvetica, sans-serif;
+	 font-size:12px;
+	
+	width:245px;
+	
+}
+img{
+	
+	float:left;
+	height:100px;
+	width:300px;
+	
+}
+
+body{
+	
+	background-color:#f2f2f2;
+}
+
+#img{
+margin-top:50px;
+margin-left:50px;
+
+}
+
+.dropdown
+{
+	width:250px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+
+
+.button{
+	width:90px;
+	border-radius:4px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	
+	background-color:#1E90FF;
+	color:white;
+}
+
+.button:hover{
+	
+	cursor:pointer;
+}
+table{
+	
+	border:1px solid black;
+	padding:10px;
+	margin-top:80px;
+	margin-left:100px;
+}
+
