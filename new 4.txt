@@ -1,0 +1,18 @@
+print "\n";
+foreach $tbrow ( @stash ) 
+   {
+     
+   while (<@lines>)  {
+
+ if (/$tbrow/)
+ {
+  print "found string $tbrow\n";
+  }
+  else
+  
+{ 
+ print "did not find the string $tbrow\n"; 
+ }
+ }
+  }   
+	 print "Finished \n ";
