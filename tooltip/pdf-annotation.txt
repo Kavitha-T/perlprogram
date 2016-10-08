@@ -1,0 +1,2 @@
+https://github.com/nelsonsilva/pdf-annotator
+https://github.com/hypothesis/pdf.js-hypothes.is
